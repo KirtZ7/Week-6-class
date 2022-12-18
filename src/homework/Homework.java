@@ -25,7 +25,7 @@ public class Homework {
         double myNum5 = 1.96d;
         System.out.println(myNum5);
 
-        /* Boolean Simple tests*/
+        /* datatype.Boolean Simple tests*/
         boolean isJavaFunT = true;
         boolean isJavaFunF = false;
         System.out.println(isJavaFunT); //Output true value

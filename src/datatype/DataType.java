@@ -34,7 +34,7 @@ public class DataType {
         char myChar = 'K';
         System.out.println(myChar);
 
-        /* Boolean Simple tests*/
+        /* datatype.Boolean Simple tests*/
         boolean isJavaFunT = true;
         boolean isJavaFunF = false;
         System.out.println(isJavaFunT); //Output true value
